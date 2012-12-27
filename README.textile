@@ -74,7 +74,7 @@ h2. in Rails 3.0
 Add the following line to your @Gemfile@:
 
 <pre><code>
-  gem 'acl9', :git => 'git://github.com/raphaelivan/acl9.git'
+  gem 'acl9', :git => 'git://github.com/RaphaelIvan/acl9.git'
 </pre></code>
 
 Then run @bundle install@ and you're done!
